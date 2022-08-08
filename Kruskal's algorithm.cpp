@@ -53,5 +53,5 @@ int main()
     }
     return 0;
 }
-// v-1 edges // connnected // undirected -kruskal and prims wont work
+// v-1 edges // connnected //  directed -kruskal and prims wont work
 // tc-O(ELOGE+ELOGV)// ELOGE for sorting E LOGV every edge undergiung union find its complexity is logV after path copression
